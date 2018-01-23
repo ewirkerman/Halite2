@@ -1,0 +1,2 @@
+REM c:\users\ewirk\appdata\local\programs\python\python35\lib\site-packages\hlt_client\compare_bots.py gym -i 400 -r "MyBot.exe" -r "go run versions\57\MyBot.go" -r "versions\51\MyBot.exe" -r "versions\51\MyBot.exe" -b halite.exe
+C:\Users\ewirk\git-projects\Halite-II-Gym\hlt_gym\hlt_gym.py --noreplay -r "bots\FinalBot\MyBot.exe" -r "versions\90\MyBot.exe" -r "bots\FinalBot\MyBot.exe" -r "versions\90\MyBot.exe"  -i 100 -b halite.exe

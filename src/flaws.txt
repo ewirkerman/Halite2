@@ -1,0 +1,1 @@
+Defense shouldn't go in order of closest to the planet, but rather closest to the destination
