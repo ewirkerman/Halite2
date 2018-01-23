@@ -8,7 +8,7 @@ import (
 	"io"
 	"time"
 
-	"./github.com/fogleman/gg"
+	"github.com/fogleman/gg"
 )
 
 type Game struct {

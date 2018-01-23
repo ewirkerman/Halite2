@@ -15,7 +15,7 @@ import (
 
 	"runtime/pprof"
 
-	ordered_map "./github.com/cevaris/ordered_map"
+	ordered_map "github.com/cevaris/ordered_map"
 )
 
 const (

@@ -4,7 +4,7 @@ import (
 	"math"
 	"sort"
 
-	ordered_map "./github.com/cevaris/ordered_map"
+	ordered_map "github.com/cevaris/ordered_map"
 )
 
 func fightForSecondConditions(game Game) (int, bool) {
