@@ -4,7 +4,7 @@ import (
 	"math"
 	"strconv"
 
-	"./github.com/fogleman/gg"
+	"github.com/fogleman/gg"
 )
 
 const (

@@ -5,7 +5,7 @@ import (
 	"math"
 	"sort"
 
-	om "./github.com/cevaris/ordered_map"
+	om "github.com/cevaris/ordered_map"
 )
 
 func UseShipsForDefense(objective *Planet, assignableShips *om.OrderedMap, objectiveShips *map[int]*[]int, game Game, heavyCombat bool) {
